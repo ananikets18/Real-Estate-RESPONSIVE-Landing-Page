@@ -1,4 +1,4 @@
-# Real-Estate-RESPONSIVE-Landing-Page using HTML CSS & Javascript 🏢
+# Real estate Landing Page using HTML CSS & Javascript 🏢
 
 ## [Watch it on youtube]()
 
